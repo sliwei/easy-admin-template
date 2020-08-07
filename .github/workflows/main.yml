@@ -25,6 +25,6 @@ jobs:
       - name: npm install, build
         run: |
           npm install
-          npm run build
+          npm run prod
         env:
           CI: true
