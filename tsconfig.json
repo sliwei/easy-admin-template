@@ -1,6 +1,5 @@
 {
   "compilerOptions": {
-    "defaultSeverity": "none",
     "outDir": "build/dist",
     "module": "esnext",
     "target": "esnext",
